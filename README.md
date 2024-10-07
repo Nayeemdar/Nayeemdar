@@ -62,5 +62,5 @@ graph TD
 ---
 
 <div align="center">
-  <i>⭐️ From [Your Name] (https://github.com/Nayeemdar)</i>
+  <i>⭐️ From Nayeem Ahmad Dar (https://github.com/Nayeemdar)</i>
 </div>
